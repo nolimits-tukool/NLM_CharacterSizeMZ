@@ -1,4 +1,4 @@
-# キャラクターサイズ一括拡大プラグイン（NLM_CharacterSizeMZ.js）
+# キャラクターサイズ 一括拡大プラグイン（NLM_CharacterSizeMZ.js）
 ### RPGツクールMZ専用プラグイン
 
 MAPキャラクター と 戦闘SVアクター の画像サイズを一括で拡大します  
