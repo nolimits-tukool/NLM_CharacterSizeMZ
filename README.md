@@ -1,0 +1,2 @@
+# NLM_CharacterSizeMZ
+キャラクターとSVアクターの画像サイズを一括で拡大
