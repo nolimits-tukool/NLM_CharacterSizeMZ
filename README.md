@@ -20,6 +20,8 @@ MAPキャラクターの当たり判定は変化せず足元にあるので、�
 プラグインの download は、[右クリック「名前を付けてリンク先を保存」](https://raw.githubusercontent.com/nolimits-tukool/NLM_CharacterSizeMZ/refs/heads/main/NLM_CharacterSizeMZ.js)  
 RPGツクールMZ専用です
 
+Windows11の[「スマートアプリコントロール」でブロックされる場合](https://github.com/nolimits-tukool/HandlingSmartAppControl)
+
 # license
 
 　MITライセンスの通りです
